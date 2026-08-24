@@ -1,6 +1,6 @@
 # ReconIQ — AI Reconciliation Agent
 
-**Track:** 04 — AI Finance Controller (Razorpay AI Buildathon 2026)
+----- AI Finance Controller (Razorpay AI Buildathon 2026) -----
 
 ## What it solves
 
